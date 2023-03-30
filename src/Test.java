@@ -11,6 +11,8 @@ public class Test {
         System.out.println("父目录名:"+file.getParent());
 //         获取相对路径
         System.out.println("相对路径:"+file.getPath());
+        
+        System.out.println("pull test");
 
     }
 }
